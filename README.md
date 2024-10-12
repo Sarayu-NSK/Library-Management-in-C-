@@ -1,4 +1,4 @@
-# Library-Management-in-C++-
+# Library-Management-in-C++
 
 In this digital age, a web-based library management system 
 would be ideal for students who can access the library’s 
